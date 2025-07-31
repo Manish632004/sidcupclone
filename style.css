@@ -261,6 +261,7 @@ video {
   transition: all ease 0.6s;
   display: flex;
   align-items: center;
+   flex-direction: column;
   padding: 20px;
    
 }
